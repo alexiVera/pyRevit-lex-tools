@@ -1,0 +1,5 @@
+title: "Extraer datos"
+tooltip: "Exporta los datos de elementos seleccionados o por categoría según los parámetros seleccionados."
+script: script.py
+author: LEXBIM
+large: true

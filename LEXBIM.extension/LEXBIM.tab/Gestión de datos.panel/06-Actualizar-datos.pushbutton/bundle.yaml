@@ -1,0 +1,5 @@
+title: "Actualizar datos"
+tooltip: "Actualiza los datos según la tabla actualizada con la automatización de <Extraer Datos>."
+script: script.py
+author: LEXBIM
+large: true
